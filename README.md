@@ -1,8 +1,13 @@
-<h3 align="center">Hi, I am Warren Wang</h3>
+<h3 align="left">Hi, I am Warren (Wei-En) Wang!</h3>
 
 ---
-I am currently an undergraduate studying at Massachusetts Institute of Technology, 
-projected to earn a Bachelor of Science degree in both Electrical Engineering & Computer Science and Physics in 2023.
+:construction: I am currently building AI applications for medical imaging and communication.
+
+:sunglasses: Interested in AI/ML and data analytics, specifically for healthcare, sports, and games.
+
+:mortar_board: EECS M.Eng. at MIT'24, EECS and Physics S.B. at MIT'23.
+
+:computer: Personal website: https://wei-enwang.github.io/
 
 <!---
 wei-enwang/wei-enwang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
