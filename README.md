@@ -1,7 +1,7 @@
-<h3 align="left">Hi, I am Warren (Wei-En) Wang!</h3>
+<h3 align="left">Hi, I am Warren Wang!</h3>
 
 ---
-:construction: I am currently building AI applications for medical imaging and communication.
+Building healthcare AI.
 
 :sunglasses: Interested in AI/ML and data analytics, specifically for healthcare, sports, and games.
 
